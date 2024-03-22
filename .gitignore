@@ -1,7 +1,10 @@
-# temp images
-./im2im/training_log/*
-./im2im/testing_log/*
+# tmp files
+im2im/utils/__pycache__/
 
+# log files
+im2im/training_log/*
+im2im/testing_log/*
+im2im/*.png
 
 # models
 *.pth
