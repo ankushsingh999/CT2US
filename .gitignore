@@ -1,0 +1,7 @@
+# temp images
+./im2im/training_log/*
+./im2im/testing_log/*
+
+
+# models
+*.pth
